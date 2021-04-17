@@ -1,0 +1,26 @@
+body{
+	margin: 0;
+}
+.header{
+	background-color:#669;
+	height: 20px;
+}
+.w{
+  }
+   .left{
+	   background-color: #77cea8;
+	   width:50%;
+	   height:500px;
+	   flex-direction: column;
+  }
+    .right{
+	   background-color: #89678e;
+	   width:50%;
+	   height:500px;
+	   flex-direction: column;
+}
+.footer{
+  	   clear: both;
+       background-color: #15131b;
+       height: :20px;
+}
